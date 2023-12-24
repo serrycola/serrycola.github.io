@@ -65,7 +65,7 @@ animation: slideRight 1s ease forwards;
 }
 
 .about-content h1 {
-font-size: 60px;
+font-size: 65px;
 line-height: 1.2;
 opacity: 0;
 animation: slideBottom 1s ease forwards;
@@ -73,7 +73,7 @@ animation-delay: 1s;
 }
 
 .about-content h3 {
-font-size: 25px;
+font-size: 30px;
 color: #1743e3;
 opacity: 0;
 animation: slideTop 2s ease forwards;
